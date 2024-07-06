@@ -51,7 +51,7 @@ prompt_toolkit==3.0.47
 pure-eval==0.2.2
 Pygments==2.18.0
 pyparsing==3.1.2
-python-dateutil==2.9.0.post0
+python==3.7
 pytz==2024.1
 pywin32==306
 pyzmq==26.0.3
